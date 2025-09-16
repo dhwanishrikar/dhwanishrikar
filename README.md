@@ -2,8 +2,8 @@
 <h1 align="center">Hey 👋, I'm Dhwani Shrikar</h1>
 <h3 align="center">3rd Year CSE (AIML) Student @ Sahyadri College of Engineering & Management, Mangaluru</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="cute coding gif"/>
+<p>
+  <img src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif)" width="200" alt="cute coding gif"/>
 </p>
 
 ---
