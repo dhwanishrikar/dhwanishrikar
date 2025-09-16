@@ -1,16 +1,51 @@
-## Hi there 👋
+<!-- Profile Header with Cute GIF -->
+<h1 align="center">Hey 👋, I'm Dhwani Shrikar</h1>
+<h3 align="center">3rd Year CSE (AIML) Student @ Sahyadri College of Engineering & Management, Mangaluru</h3>
 
-<!--
-**dhwanishrikar/dhwanishrikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="cute coding gif"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌱 Currently exploring **Web Development, AI/ML, and Creative Coding**  
+- 🎯 Motto: *“Slowly but surely”*  
+- 🎨 Outside code, I enjoy **sketching, crocheting, mehendi art, music, singing & dancing**  
+
+---
+
+## 🛠️ Skills  
+
+### 💻 Programming  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Web  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+![Dhwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhwanishrikar&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhwanishrikar&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhwanishrikar&theme=radical)  
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
+[![X](https://img.shields.io/badge/Twitter%20(X)-000000?style=flat&logo=x&logoColor=white)](YOUR_X_URL)  
+
+---
+
+✨ *“Slowly but surely, small steps become milestones.”*  
