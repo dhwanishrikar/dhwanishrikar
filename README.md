@@ -1,12 +1,12 @@
 <!-- Profile Header with Cute GIF -->
-<img align='right' src="https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif" width='200' alt="cute gif"/>
+<img align='right' src="https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif" width='200' height='100' alt="cute gif"/>
 <h1 align="left">Dhwani Shrikar</h1>
 <h3 align="left">3rd Year CSE (AIML) Student at Sahyadri College of Engineering & Management, Mangaluru</h3>
 
 
 
 
-✨ *“Slowly but surely, small steps become milestones.”*  
+
 
 ---
 
@@ -49,4 +49,4 @@
 [![X](https://img.shields.io/badge/Twitter%20(X)-000000?style=flat&logo=x&logoColor=white)](YOUR_X_URL)  
 
 ---
-
+✨ *“Slowly but surely, small steps become milestones.”*  
