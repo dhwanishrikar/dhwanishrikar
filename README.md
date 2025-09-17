@@ -49,4 +49,4 @@
 
 ---
 ✨ *“Slowly but surely, small steps become milestones.”*  
-<img align='right' src="[https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif](https://i.pinimg.com/originals/42/04/77/4204771e1c54c2b9afa36f668261e7bd.gif)" width='120' height='120' alt="cute gif"/>
+<img align='right' src="https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif" width='120' height='120' alt="cute gif"/>
