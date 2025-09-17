@@ -5,6 +5,9 @@
 
 
 
+
+✨ *“Slowly but surely, small steps become milestones.”*  
+
 ---
 
 ## 🚀 About Me  
@@ -47,4 +50,3 @@
 
 ---
 
-✨ *“Slowly but surely, small steps become milestones.”*  
