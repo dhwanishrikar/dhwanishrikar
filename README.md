@@ -2,13 +2,12 @@
 
 <h1 align="left">Dhwani Shrikar</h1>
 <h3 align="left">3rd Year CSE (AIML) Student at Sahyadri College of Engineering & Management, Mangaluru</h3>
-
-
-
+<p>
+  <img align='right' src="https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif" width='100' height='100' alt="cute gif"/>
+</p>
 
 
 ---
-<img align='right' src="https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif" width='100' height='100' alt="cute gif"/>
 
 ## 🚀 About Me  
 - 🌱 Currently exploring **Web Development, AI/ML, and Creative Coding**  
