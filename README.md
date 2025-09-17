@@ -8,7 +8,7 @@
 
 
 ---
-<img align='right' src="https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif" width='200' height='200' alt="cute gif"/>
+<img align='right' src="https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif" width='100' height='100' alt="cute gif"/>
 
 ## 🚀 About Me  
 - 🌱 Currently exploring **Web Development, AI/ML, and Creative Coding**  
